@@ -1,0 +1,1 @@
+rails new demo -m devise_template.rb -d postgresql --skip-spring
